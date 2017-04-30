@@ -1,0 +1,25 @@
+  
+main{
+  font-size:1.2em;
+  font-family: sans-serif
+}
+
+ 
+  footer p{
+    color:#9e9e9e;
+  }
+header .row ul li{
+  display:inline;
+}
+
+.tabs .tab a:hover{
+  background:#b71c1c;
+  color:lightgrey;
+}
+  
+  footer li a{
+    color:white;
+  }
+   footer li a:hover{
+    color:grey;
+  }
